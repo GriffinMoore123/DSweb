@@ -1,5 +1,8 @@
 h1 {
  outline: 1px solid rgb(0, 0, 0);
+ outline: 1px solid brown;
+ margin-left: 5%;
+ margin-right: 5%;
 }
 h2 {
  outline: 1px solid rgb(41, 0, 247);
@@ -15,8 +18,3 @@ li {
 }
 img {
  outline: 5px dotted rgb(248, 0, 203);
- h1 {
- outline: 1px solid brown;
- margin-left: 5%;
- margin-right: 5%;
-}
