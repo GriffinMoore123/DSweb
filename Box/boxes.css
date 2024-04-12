@@ -1,0 +1,17 @@
+h1 {
+ outline: 1px solid brown;
+}
+h2 {
+ outline: 1px solid brown;
+}
+p {
+ outline: 1px solid green;
+}
+b {
+ outline: 1px dotted purple;
+}
+li {
+ outline: 1px solid orange;
+}
+img {
+ outline: 5px dotted royalblue;
