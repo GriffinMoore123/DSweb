@@ -1,17 +1,22 @@
 h1 {
- outline: 1px solid brown;
+ outline: 1px solid rgb(0, 0, 0);
 }
 h2 {
- outline: 1px solid brown;
+ outline: 1px solid rgb(41, 0, 247);
 }
 p {
  outline: 1px solid green;
 }
 b {
- outline: 1px dotted purple;
+ outline: 3px dotted purple;
 }
 li {
  outline: 1px solid orange;
 }
 img {
  outline: 5px dotted royalblue;
+ h1 {
+ outline: 1px solid brown;
+ margin-left: 5%;
+ margin-right: 5%;
+}
