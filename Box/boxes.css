@@ -14,7 +14,7 @@ li {
  outline: 1px solid orange;
 }
 img {
- outline: 5px dotted royalblue;
+ outline: 5px dotted rgb(248, 0, 203);
  h1 {
  outline: 1px solid brown;
  margin-left: 5%;
